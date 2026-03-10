@@ -38,3 +38,11 @@ npm run build
 ```shell
 npm start
 ```
+## Screenshots
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Chat Interface
+![Chat](screenshots/chat.png)
+
